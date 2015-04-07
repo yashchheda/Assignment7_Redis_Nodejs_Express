@@ -1,0 +1,26 @@
+{
+  "name": "Assignment7_Redis_Nodejs_Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashchheda/Assignment7_Redis_Nodejs_Express.git"
+  },
+  "author": "YASH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashchheda/Assignment7_Redis_Nodejs_Express/issues"
+  },
+  "homepage": "https://github.com/yashchheda/Assignment7_Redis_Nodejs_Express"
+}
